@@ -5,6 +5,12 @@ Sample start project from AndEngine with Gradle and a hint of Kitkat
 
 A simple project to start with if you want to use AndEngine + Gradle. Works great in Android Studio.
 
+To Use
+======
+Open Android Studio and import project.
+
+If you want to compile it, use the Gradle Wrapper.
+
 
 Credits
 =======
